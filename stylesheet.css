@@ -1,0 +1,49 @@
+body{
+    font-family:serif;
+}
+
+.header{
+    background:crimson;
+    height: 100px;
+}
+.header-logo{
+    background-color:crimson;
+    font-family:serif;
+    font-size:40px;
+    color:white;
+    padding:30px;
+}
+
+.main{
+    background-color:antiquewhite;
+    height:500px;
+}
+.explanation{
+    padding-left:30px;
+    padding-right:30px;
+}
+.text1{
+    font-size:20px;
+    list-style:none;
+}
+.text2{
+    font-size:15px;
+}
+
+.footer{
+    background-color:firebrick;
+    height:50px;
+}
+.footer-logo{
+    color:white;
+    font-size:25px;
+    float:left;
+}
+.footer-list{
+    color:white;
+    font-size:15px;
+    float:right;
+    padding-right:800px;
+    list-style:none;
+    padding-top:20px;
+}
